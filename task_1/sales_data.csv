@@ -1,0 +1,1001 @@
+Date,Product,Price,Quantity,Payment_Type
+2023-11-10,Product_B,59.39,2,Credit Card
+2022-02-05,Product_B,74.37,7,Credit Card
+2022-02-04,Product_C,64.25,6,Debit Card
+2023-08-30,Product_A,59.04,5,Online
+2022-01-01,Product_B,48.13,5,Debit Card
+2023-09-29,Product_A,68.13,5,Debit Card
+2023-01-10,Product_C,49.38,8,Cash
+2021-08-02,Product_B,90.26,3,Cash
+2022-11-12,Product_D,96.73,3,Debit Card
+2021-10-11,Product_A,44.51,7,Debit Card
+2021-07-25,Product_B,81.26,6,Online
+2022-04-18,Product_D,57.6,4,Debit Card
+2022-04-06,Product_B,61.12,1,Cash
+2021-09-21,Product_B,93.3,9,Debit Card
+2021-08-12,Product_A,16.39,9,Online
+2023-03-20,Product_A,17.84,2,Cash
+2023-08-04,Product_D,11.82,9,Debit Card
+2022-09-14,Product_B,84.94,8,Cash
+2022-02-09,Product_D,80.03,6,Debit Card
+2021-03-08,Product_A,88.3,8,Cash
+2021-04-06,Product_D,98.08,5,Online
+2022-02-03,Product_C,81.92,1,Debit Card
+2021-05-03,Product_D,51.53,8,Online
+2023-06-23,Product_B,80.25,3,Cash
+2023-03-11,Product_A,20.64,4,Debit Card
+2022-10-13,Product_C,67.59,6,Credit Card
+2021-04-02,Product_A,22.9,5,Online
+2022-12-11,Product_A,95.02,1,Credit Card
+2023-11-05,Product_D,56.97,5,Debit Card
+2022-08-09,Product_A,47.32,6,Online
+2023-05-10,Product_C,33.81,9,Cash
+2021-11-12,Product_B,79.68,2,Credit Card
+2022-06-16,Product_B,51.05,5,Debit Card
+2021-12-07,Product_D,61.16,9,Cash
+2021-09-02,Product_A,11.69,1,Online
+2021-06-29,Product_C,65.59,2,Online
+2023-03-16,Product_B,65.09,2,Credit Card
+2023-07-13,Product_B,65.52,9,Credit Card
+2023-01-09,Product_C,94.94,5,Online
+2022-08-23,Product_C,71.36,1,Debit Card
+2022-09-09,Product_B,42.36,4,Debit Card
+2022-12-18,Product_B,49.33,1,Debit Card
+2022-01-17,Product_B,72.79,8,Online
+2021-10-22,Product_A,15.42,1,Online
+2022-03-10,Product_C,70.01,9,Online
+2022-09-03,Product_A,70.36,2,Cash
+2023-06-08,Product_B,28.93,3,Cash
+2022-04-04,Product_D,21.6,9,Debit Card
+2022-01-19,Product_B,38.39,6,Online
+2021-04-21,Product_B,42.73,9,Cash
+2021-05-21,Product_B,61.32,3,Credit Card
+2021-06-27,Product_B,49.47,2,Cash
+2023-04-30,Product_D,98.95,4,Cash
+2021-07-13,Product_B,19.18,6,Debit Card
+2021-03-05,Product_B,28.8,1,Debit Card
+2023-03-10,Product_C,24.52,3,Cash
+2023-03-09,Product_A,68.78,6,Cash
+2021-11-02,Product_A,32.8,9,Online
+2021-06-13,Product_B,51.97,7,Cash
+2022-11-09,Product_A,32.0,3,Credit Card
+2021-07-19,Product_C,24.31,8,Debit Card
+2021-06-14,Product_A,19.93,8,Cash
+2021-08-13,Product_B,69.07,2,Cash
+2021-06-28,Product_A,22.44,9,Online
+2022-02-03,Product_A,27.69,5,Credit Card
+2022-08-10,Product_A,43.19,4,Online
+2022-09-25,Product_C,83.89,4,Debit Card
+2021-04-06,Product_B,18.74,3,Cash
+2022-08-31,Product_D,85.42,1,Credit Card
+2023-02-21,Product_C,18.65,5,Online
+2021-03-28,Product_A,97.88,7,Credit Card
+2021-07-09,Product_D,52.18,5,Online
+2022-04-11,Product_B,97.91,4,Debit Card
+2022-05-28,Product_A,64.44,3,Credit Card
+2022-08-31,Product_D,76.53,4,Debit Card
+2022-06-10,Product_D,13.53,2,Cash
+2023-03-26,Product_B,35.45,2,Cash
+2021-03-16,Product_C,20.82,3,Debit Card
+2023-02-15,Product_D,36.65,8,Online
+2023-09-05,Product_A,20.69,3,Debit Card
+2023-09-28,Product_C,38.62,8,Credit Card
+2022-03-29,Product_B,47.28,1,Cash
+2021-07-23,Product_D,15.77,2,Cash
+2021-11-18,Product_D,72.32,9,Online
+2023-07-13,Product_A,60.99,1,Online
+2023-10-17,Product_B,33.89,6,Credit Card
+2021-11-01,Product_D,57.09,3,Credit Card
+2023-11-17,Product_C,18.45,9,Credit Card
+2021-10-23,Product_D,61.84,1,Online
+2022-12-02,Product_C,93.64,5,Cash
+2022-03-08,Product_A,38.67,1,Cash
+2023-03-28,Product_A,70.07,4,Online
+2023-07-11,Product_C,21.86,9,Debit Card
+2022-11-26,Product_B,74.47,2,Cash
+2021-06-16,Product_C,36.05,7,Online
+2022-04-10,Product_D,26.49,5,Online
+2022-05-15,Product_C,62.79,7,Debit Card
+2022-06-11,Product_A,11.81,7,Debit Card
+2021-08-17,Product_B,84.6,5,Cash
+2022-06-22,Product_D,10.42,8,Credit Card
+2022-10-17,Product_A,71.0,3,Debit Card
+2021-12-14,Product_C,34.3,9,Credit Card
+2022-03-03,Product_B,76.17,1,Cash
+2022-11-05,Product_B,96.6,9,Debit Card
+2022-10-07,Product_A,32.39,7,Credit Card
+2023-09-08,Product_D,61.85,3,Cash
+2021-06-16,Product_B,63.28,7,Cash
+2021-04-14,Product_A,61.5,6,Credit Card
+2021-12-10,Product_D,30.08,4,Cash
+2022-11-09,Product_D,95.75,8,Online
+2021-04-23,Product_D,50.24,9,Credit Card
+2023-11-03,Product_D,86.18,4,Online
+2021-07-27,Product_D,72.95,9,Cash
+2021-06-12,Product_A,36.77,9,Online
+2021-12-08,Product_C,83.24,5,Debit Card
+2022-08-23,Product_D,45.69,5,Cash
+2022-01-08,Product_A,89.3,2,Cash
+2022-07-19,Product_D,62.31,1,Credit Card
+2021-12-18,Product_C,89.36,8,Cash
+2022-02-19,Product_D,72.33,7,Cash
+2023-09-04,Product_B,75.27,3,Cash
+2021-05-04,Product_D,55.12,2,Credit Card
+2022-08-27,Product_A,96.05,1,Cash
+2022-12-20,Product_B,67.96,7,Cash
+2022-04-12,Product_C,48.15,2,Debit Card
+2023-04-27,Product_A,64.58,7,Debit Card
+2023-08-20,Product_D,11.73,8,Credit Card
+2023-04-09,Product_A,37.14,2,Cash
+2021-03-18,Product_C,69.42,6,Online
+2023-07-01,Product_D,36.11,3,Online
+2023-02-09,Product_D,65.62,1,Online
+2022-10-07,Product_D,48.59,3,Online
+2021-06-28,Product_D,22.19,7,Credit Card
+2022-07-26,Product_B,36.85,7,Cash
+2021-07-16,Product_A,61.3,4,Debit Card
+2022-05-14,Product_C,63.18,6,Cash
+2021-12-17,Product_C,61.69,5,Online
+2021-06-16,Product_A,68.79,8,Credit Card
+2022-05-12,Product_C,68.69,4,Online
+2023-02-17,Product_A,48.83,3,Debit Card
+2021-03-21,Product_B,90.69,7,Credit Card
+2021-08-03,Product_D,43.08,2,Online
+2022-08-17,Product_D,49.23,6,Credit Card
+2022-06-21,Product_B,90.27,2,Credit Card
+2022-03-24,Product_C,82.56,4,Credit Card
+2021-08-23,Product_A,73.35,2,Cash
+2023-10-03,Product_D,19.02,1,Debit Card
+2023-08-12,Product_D,92.75,8,Online
+2022-08-09,Product_B,74.28,4,Online
+2023-11-06,Product_B,99.9,7,Online
+2023-08-13,Product_A,23.45,5,Online
+2023-04-07,Product_C,88.13,5,Cash
+2021-04-17,Product_B,24.62,4,Cash
+2021-11-14,Product_C,65.4,6,Online
+2023-03-08,Product_A,21.14,5,Cash
+2023-02-07,Product_D,86.32,5,Cash
+2021-08-02,Product_D,82.66,1,Debit Card
+2023-09-03,Product_B,61.22,1,Debit Card
+2022-08-10,Product_A,46.65,6,Debit Card
+2022-02-21,Product_D,16.23,1,Credit Card
+2022-11-13,Product_B,72.77,7,Debit Card
+2023-09-06,Product_C,50.82,4,Online
+2022-06-19,Product_B,74.99,9,Debit Card
+2022-12-14,Product_D,87.97,7,Online
+2022-11-30,Product_B,97.8,3,Credit Card
+2021-06-05,Product_A,87.02,2,Cash
+2023-01-13,Product_D,11.05,8,Credit Card
+2021-08-03,Product_A,42.4,8,Cash
+2021-04-18,Product_B,75.7,7,Cash
+2021-06-16,Product_C,25.45,8,Credit Card
+2021-10-23,Product_B,56.89,6,Debit Card
+2021-08-30,Product_D,14.89,9,Online
+2022-05-05,Product_D,28.0,9,Online
+2023-11-08,Product_A,11.67,2,Credit Card
+2022-03-26,Product_B,81.43,5,Cash
+2021-09-19,Product_B,30.15,7,Debit Card
+2022-01-19,Product_D,41.08,5,Credit Card
+2022-06-11,Product_A,93.53,3,Cash
+2022-05-26,Product_A,73.4,8,Credit Card
+2023-02-01,Product_D,12.87,9,Cash
+2021-11-16,Product_D,24.82,6,Cash
+2023-09-01,Product_B,65.93,8,Online
+2022-05-11,Product_B,61.95,7,Debit Card
+2023-07-13,Product_D,31.41,4,Credit Card
+2021-11-02,Product_B,94.08,4,Cash
+2022-08-19,Product_C,65.26,8,Cash
+2021-10-11,Product_B,58.21,3,Credit Card
+2021-09-05,Product_B,63.09,9,Credit Card
+2021-10-01,Product_D,75.71,2,Credit Card
+2022-05-18,Product_A,38.08,4,Credit Card
+2023-11-04,Product_D,45.84,3,Cash
+2022-01-27,Product_A,28.89,2,Online
+2021-07-25,Product_D,26.76,8,Credit Card
+2023-05-17,Product_C,94.99,9,Credit Card
+2023-04-18,Product_A,76.56,8,Online
+2021-11-11,Product_A,54.14,6,Cash
+2023-11-22,Product_A,30.47,8,Debit Card
+2021-10-01,Product_C,32.89,8,Debit Card
+2023-09-24,Product_A,15.22,2,Credit Card
+2021-04-24,Product_A,49.1,6,Cash
+2023-03-11,Product_D,38.06,7,Cash
+2022-09-06,Product_A,72.67,6,Cash
+2022-06-19,Product_B,44.0,9,Credit Card
+2021-05-08,Product_D,26.16,9,Debit Card
+2023-02-18,Product_B,12.22,2,Credit Card
+2021-08-28,Product_A,16.05,6,Cash
+2022-03-12,Product_B,71.15,3,Cash
+2023-10-30,Product_A,50.83,6,Debit Card
+2023-06-17,Product_B,58.29,2,Cash
+2023-06-12,Product_C,90.7,9,Online
+2022-05-04,Product_C,99.13,2,Credit Card
+2022-11-03,Product_B,29.52,8,Credit Card
+2023-01-15,Product_D,69.68,9,Cash
+2023-06-16,Product_C,33.7,6,Credit Card
+2022-02-27,Product_A,11.86,1,Cash
+2021-09-09,Product_D,78.25,2,Credit Card
+2023-02-01,Product_A,38.8,6,Cash
+2023-06-25,Product_D,44.51,2,Credit Card
+2023-04-16,Product_A,62.95,5,Debit Card
+2022-02-13,Product_D,84.79,9,Credit Card
+2023-04-25,Product_A,66.61,3,Debit Card
+2023-11-17,Product_B,88.54,9,Debit Card
+2023-08-25,Product_D,34.62,4,Online
+2021-10-24,Product_D,81.82,4,Online
+2021-07-12,Product_D,26.71,8,Cash
+2021-12-12,Product_D,95.75,5,Online
+2022-06-23,Product_A,71.87,9,Online
+2023-01-24,Product_C,29.4,4,Credit Card
+2021-04-26,Product_C,95.26,4,Online
+2023-02-20,Product_D,75.78,2,Cash
+2022-03-03,Product_A,32.85,8,Cash
+2021-03-15,Product_A,29.2,6,Online
+2021-05-08,Product_B,56.64,6,Credit Card
+2023-05-07,Product_C,12.31,8,Cash
+2021-03-07,Product_A,28.67,8,Online
+2021-11-02,Product_A,48.22,4,Cash
+2022-01-23,Product_D,43.68,3,Credit Card
+2022-08-22,Product_A,51.72,2,Online
+2023-02-28,Product_C,34.99,3,Credit Card
+2022-03-11,Product_C,62.81,6,Cash
+2021-02-28,Product_B,87.75,9,Cash
+2022-03-28,Product_D,20.58,9,Credit Card
+2022-01-17,Product_B,56.56,9,Credit Card
+2023-10-12,Product_D,21.89,3,Online
+2021-09-24,Product_C,74.52,3,Online
+2022-10-03,Product_D,45.65,9,Online
+2022-03-25,Product_A,60.89,5,Online
+2023-11-11,Product_B,26.5,2,Credit Card
+2023-10-06,Product_A,23.04,2,Online
+2021-11-09,Product_D,53.93,1,Cash
+2022-08-21,Product_D,42.01,3,Online
+2023-09-09,Product_C,94.64,2,Cash
+2023-04-24,Product_A,78.88,8,Cash
+2023-11-19,Product_D,77.38,1,Online
+2023-09-18,Product_A,91.33,3,Debit Card
+2022-03-29,Product_B,17.51,4,Credit Card
+2023-03-18,Product_B,59.7,5,Debit Card
+2022-03-19,Product_C,62.6,4,Online
+2021-09-24,Product_B,96.57,1,Cash
+2021-10-30,Product_D,36.29,1,Credit Card
+2022-08-14,Product_D,31.67,7,Cash
+2022-12-13,Product_A,19.03,5,Debit Card
+2022-12-13,Product_B,11.48,4,Online
+2023-02-22,Product_C,93.66,4,Debit Card
+2022-05-25,Product_D,70.29,2,Online
+2023-02-28,Product_A,80.66,1,Online
+2023-06-30,Product_B,35.36,8,Online
+2021-03-03,Product_B,62.78,9,Credit Card
+2022-10-02,Product_B,15.76,7,Online
+2021-11-08,Product_B,53.71,3,Debit Card
+2022-11-04,Product_D,97.97,9,Credit Card
+2023-06-09,Product_D,88.89,9,Cash
+2021-05-17,Product_C,40.43,7,Online
+2022-05-29,Product_A,96.54,5,Debit Card
+2021-09-21,Product_D,30.85,2,Debit Card
+2022-12-14,Product_A,95.44,9,Credit Card
+2022-09-27,Product_B,94.72,6,Online
+2023-08-15,Product_A,81.93,5,Online
+2021-03-04,Product_A,66.74,4,Cash
+2021-12-07,Product_C,88.69,6,Online
+2022-11-11,Product_B,36.37,8,Debit Card
+2021-03-11,Product_D,86.4,7,Credit Card
+2022-01-14,Product_C,65.61,7,Debit Card
+2022-08-24,Product_B,11.19,4,Cash
+2023-04-07,Product_A,41.25,4,Cash
+2021-11-26,Product_A,23.33,3,Credit Card
+2022-04-27,Product_A,98.36,8,Debit Card
+2021-06-10,Product_D,53.05,4,Debit Card
+2022-12-09,Product_D,54.77,6,Cash
+2022-07-23,Product_A,67.55,9,Cash
+2023-01-17,Product_D,43.17,4,Online
+2022-01-13,Product_A,22.32,9,Debit Card
+2023-03-04,Product_A,83.99,6,Debit Card
+2022-02-19,Product_C,27.09,1,Credit Card
+2021-11-05,Product_C,56.02,8,Debit Card
+2023-06-22,Product_D,30.19,1,Cash
+2022-08-31,Product_D,18.81,2,Debit Card
+2023-09-02,Product_A,87.6,7,Credit Card
+2023-06-13,Product_D,97.56,7,Cash
+2023-09-02,Product_A,96.48,5,Debit Card
+2022-02-01,Product_B,91.59,6,Cash
+2023-01-02,Product_C,79.66,8,Debit Card
+2023-07-05,Product_A,39.98,7,Credit Card
+2023-01-29,Product_C,17.3,1,Online
+2022-01-19,Product_B,46.65,2,Debit Card
+2023-06-28,Product_C,30.9,7,Credit Card
+2021-03-26,Product_B,21.92,7,Cash
+2022-05-03,Product_A,14.81,5,Cash
+2022-08-19,Product_B,75.3,3,Cash
+2023-08-15,Product_B,11.03,3,Online
+2021-11-28,Product_C,79.35,5,Debit Card
+2023-10-26,Product_C,23.23,5,Credit Card
+2023-06-30,Product_B,17.16,4,Online
+2023-03-03,Product_B,18.06,2,Cash
+2022-11-24,Product_B,70.48,1,Cash
+2023-10-27,Product_B,32.08,7,Online
+2023-07-21,Product_A,47.85,7,Online
+2021-12-03,Product_C,60.16,1,Credit Card
+2021-12-05,Product_A,87.45,9,Debit Card
+2021-03-29,Product_C,75.43,6,Credit Card
+2022-09-25,Product_C,34.33,3,Debit Card
+2021-04-29,Product_B,21.83,9,Debit Card
+2021-07-20,Product_D,14.98,5,Cash
+2023-01-20,Product_C,37.14,5,Credit Card
+2022-02-21,Product_A,33.59,1,Online
+2023-11-01,Product_D,51.05,3,Online
+2023-01-19,Product_D,71.5,6,Debit Card
+2022-12-14,Product_B,72.61,8,Cash
+2023-11-04,Product_A,35.52,8,Online
+2022-10-22,Product_B,44.19,2,Debit Card
+2022-04-01,Product_D,26.3,4,Cash
+2021-05-01,Product_A,80.97,3,Online
+2023-10-02,Product_C,15.12,1,Cash
+2021-05-29,Product_A,72.73,4,Debit Card
+2023-05-28,Product_D,80.08,3,Cash
+2022-03-08,Product_A,79.97,3,Cash
+2023-08-11,Product_A,33.35,3,Cash
+2022-12-10,Product_B,43.64,4,Online
+2022-10-24,Product_C,62.88,6,Credit Card
+2022-10-10,Product_C,34.55,2,Credit Card
+2021-10-15,Product_A,43.38,8,Credit Card
+2023-11-01,Product_D,27.73,6,Debit Card
+2022-03-30,Product_D,51.39,4,Debit Card
+2022-04-15,Product_C,14.02,4,Credit Card
+2023-02-12,Product_A,81.98,1,Online
+2022-08-13,Product_D,16.93,7,Debit Card
+2021-03-21,Product_A,56.7,4,Credit Card
+2022-01-27,Product_B,37.61,7,Credit Card
+2021-05-04,Product_A,61.98,6,Online
+2022-01-08,Product_B,96.35,2,Debit Card
+2021-12-11,Product_C,68.1,4,Cash
+2021-05-20,Product_A,13.18,4,Online
+2022-07-10,Product_D,48.74,8,Debit Card
+2022-08-30,Product_B,55.9,9,Cash
+2021-11-30,Product_D,58.26,5,Cash
+2021-11-12,Product_C,71.33,8,Cash
+2022-11-03,Product_B,34.98,9,Debit Card
+2021-05-07,Product_B,21.6,5,Debit Card
+2022-11-26,Product_B,45.34,2,Debit Card
+2022-06-19,Product_C,96.08,6,Online
+2021-05-05,Product_A,26.84,1,Online
+2022-06-21,Product_B,91.36,4,Online
+2023-06-14,Product_D,58.94,7,Credit Card
+2022-01-02,Product_B,51.12,4,Credit Card
+2023-11-23,Product_A,89.38,1,Cash
+2023-03-17,Product_A,51.27,4,Credit Card
+2022-05-16,Product_D,75.18,7,Online
+2023-01-23,Product_C,45.91,6,Credit Card
+2021-12-11,Product_D,91.36,2,Debit Card
+2021-09-09,Product_D,72.1,8,Cash
+2023-02-04,Product_A,72.97,4,Online
+2022-06-12,Product_A,39.49,5,Online
+2023-07-07,Product_A,78.11,8,Debit Card
+2021-11-07,Product_B,67.25,1,Online
+2022-02-10,Product_B,31.6,4,Cash
+2021-05-31,Product_C,24.45,6,Online
+2023-07-25,Product_A,81.68,7,Credit Card
+2021-08-24,Product_B,96.32,7,Online
+2022-11-06,Product_D,51.23,8,Credit Card
+2023-05-23,Product_D,63.19,5,Cash
+2023-05-12,Product_D,87.2,8,Cash
+2023-02-01,Product_D,51.15,3,Online
+2021-10-07,Product_C,95.67,1,Online
+2021-06-19,Product_D,61.82,2,Online
+2021-08-15,Product_D,83.87,7,Credit Card
+2021-06-26,Product_A,91.8,6,Debit Card
+2021-11-06,Product_D,83.4,5,Credit Card
+2021-04-10,Product_B,24.35,9,Debit Card
+2023-07-21,Product_C,66.6,8,Debit Card
+2021-04-09,Product_C,45.86,9,Cash
+2021-12-27,Product_B,15.64,7,Online
+2023-06-22,Product_D,48.16,2,Online
+2023-05-08,Product_A,33.28,5,Debit Card
+2021-09-18,Product_D,86.41,9,Online
+2022-11-19,Product_D,13.0,6,Cash
+2023-06-26,Product_B,96.31,2,Credit Card
+2022-03-10,Product_D,41.98,7,Cash
+2023-01-12,Product_D,42.1,3,Online
+2022-07-23,Product_D,11.47,8,Credit Card
+2023-06-18,Product_D,26.67,6,Credit Card
+2023-06-07,Product_B,46.11,8,Cash
+2022-05-25,Product_A,93.64,7,Cash
+2022-02-27,Product_D,18.97,7,Online
+2021-09-26,Product_A,95.08,4,Online
+2023-02-23,Product_A,88.25,4,Cash
+2023-11-07,Product_C,50.87,5,Debit Card
+2022-06-29,Product_B,39.4,5,Debit Card
+2021-10-12,Product_D,30.95,2,Online
+2023-05-28,Product_A,65.3,4,Debit Card
+2022-01-23,Product_C,12.98,6,Cash
+2022-06-01,Product_C,11.4,2,Credit Card
+2023-01-26,Product_A,48.59,8,Credit Card
+2021-09-20,Product_D,16.13,6,Debit Card
+2022-03-04,Product_B,32.67,5,Cash
+2023-08-15,Product_B,29.9,3,Credit Card
+2022-09-11,Product_B,32.79,1,Credit Card
+2023-10-27,Product_A,21.79,9,Cash
+2023-06-19,Product_D,11.08,8,Debit Card
+2023-08-04,Product_B,20.39,2,Online
+2022-07-10,Product_C,65.66,2,Cash
+2021-07-20,Product_B,97.68,2,Debit Card
+2022-08-11,Product_B,99.13,8,Debit Card
+2022-03-28,Product_C,46.81,5,Credit Card
+2022-04-20,Product_A,24.67,9,Online
+2022-09-05,Product_C,67.49,7,Cash
+2022-04-18,Product_B,54.13,2,Debit Card
+2022-06-21,Product_C,99.05,3,Debit Card
+2023-01-02,Product_B,15.88,9,Cash
+2022-01-02,Product_B,80.49,5,Online
+2023-09-13,Product_B,35.96,8,Cash
+2021-10-19,Product_B,31.73,9,Cash
+2022-02-21,Product_B,69.63,9,Cash
+2022-10-03,Product_C,32.15,4,Credit Card
+2021-10-21,Product_D,69.93,3,Debit Card
+2023-08-07,Product_A,56.56,6,Credit Card
+2021-03-27,Product_B,48.17,7,Cash
+2021-11-16,Product_D,59.92,5,Online
+2022-05-12,Product_A,35.83,6,Credit Card
+2021-07-29,Product_B,73.59,8,Cash
+2023-10-07,Product_B,47.34,1,Cash
+2023-06-24,Product_D,42.45,4,Cash
+2023-05-10,Product_B,84.58,6,Online
+2022-11-15,Product_A,93.25,6,Online
+2021-06-13,Product_C,14.14,8,Debit Card
+2021-09-04,Product_D,30.94,9,Online
+2021-12-06,Product_C,41.37,1,Debit Card
+2021-03-03,Product_C,83.35,3,Online
+2022-09-06,Product_C,98.69,7,Credit Card
+2021-06-19,Product_C,97.21,6,Online
+2022-11-15,Product_D,91.45,2,Online
+2021-11-22,Product_C,36.69,6,Cash
+2021-11-24,Product_A,99.28,2,Credit Card
+2023-01-17,Product_A,32.45,3,Credit Card
+2023-07-19,Product_B,19.53,4,Online
+2021-09-17,Product_B,95.59,1,Debit Card
+2022-05-10,Product_A,31.01,4,Debit Card
+2021-04-04,Product_A,72.08,1,Credit Card
+2023-06-13,Product_C,15.25,2,Debit Card
+2021-09-08,Product_A,75.76,3,Credit Card
+2023-07-03,Product_B,89.35,3,Debit Card
+2023-09-15,Product_C,34.52,4,Debit Card
+2021-11-26,Product_C,44.12,5,Credit Card
+2022-04-05,Product_B,43.69,6,Online
+2023-06-02,Product_A,77.39,9,Online
+2021-11-24,Product_A,31.4,6,Credit Card
+2022-01-02,Product_D,25.47,2,Debit Card
+2023-07-18,Product_D,50.44,7,Online
+2023-05-21,Product_C,37.4,2,Debit Card
+2023-05-25,Product_A,85.53,7,Credit Card
+2021-07-13,Product_D,31.4,2,Online
+2021-05-21,Product_A,55.22,6,Debit Card
+2022-04-17,Product_A,94.83,7,Credit Card
+2023-01-24,Product_B,67.06,3,Online
+2022-09-26,Product_A,88.06,3,Credit Card
+2022-06-30,Product_B,94.62,3,Cash
+2022-06-28,Product_A,77.57,9,Credit Card
+2023-10-24,Product_D,72.96,7,Online
+2023-09-12,Product_B,97.12,4,Online
+2022-08-11,Product_C,99.5,5,Cash
+2021-05-09,Product_B,50.66,2,Online
+2022-07-12,Product_C,16.38,7,Debit Card
+2023-01-11,Product_A,36.35,7,Online
+2022-10-17,Product_B,23.71,9,Debit Card
+2023-10-16,Product_D,47.57,9,Debit Card
+2022-01-20,Product_D,21.82,9,Debit Card
+2022-08-04,Product_D,64.37,6,Credit Card
+2021-03-15,Product_D,44.45,3,Online
+2023-06-19,Product_B,90.58,3,Cash
+2021-05-22,Product_A,97.1,6,Online
+2023-08-06,Product_A,59.22,6,Online
+2022-09-15,Product_A,34.73,5,Cash
+2021-03-13,Product_C,63.3,2,Cash
+2021-09-14,Product_C,90.71,2,Online
+2021-09-22,Product_A,46.61,9,Online
+2022-02-04,Product_D,59.69,9,Online
+2023-07-31,Product_A,34.45,4,Credit Card
+2022-05-14,Product_A,50.99,1,Credit Card
+2023-08-02,Product_A,46.15,3,Credit Card
+2022-05-05,Product_D,32.36,4,Online
+2021-04-14,Product_C,55.53,7,Cash
+2023-02-19,Product_D,37.93,5,Online
+2023-03-13,Product_A,43.57,8,Online
+2022-04-23,Product_A,57.25,6,Credit Card
+2023-10-23,Product_C,77.55,6,Debit Card
+2021-04-09,Product_D,40.02,4,Online
+2022-04-24,Product_B,93.17,9,Credit Card
+2023-02-19,Product_C,87.61,8,Cash
+2021-09-22,Product_A,14.38,2,Debit Card
+2023-03-06,Product_C,32.83,8,Online
+2022-08-18,Product_D,50.15,6,Debit Card
+2022-10-17,Product_C,19.42,5,Cash
+2023-02-02,Product_C,41.36,1,Online
+2022-12-01,Product_C,76.61,6,Credit Card
+2022-11-19,Product_D,71.25,8,Credit Card
+2023-05-22,Product_B,66.01,9,Debit Card
+2022-05-20,Product_B,73.95,2,Cash
+2023-11-24,Product_A,28.44,7,Cash
+2021-04-05,Product_A,40.75,7,Online
+2022-01-27,Product_C,70.86,1,Debit Card
+2022-06-14,Product_B,89.13,3,Online
+2021-09-30,Product_D,58.93,9,Online
+2023-03-26,Product_B,35.44,7,Debit Card
+2021-12-26,Product_C,12.72,7,Online
+2021-05-04,Product_D,73.93,4,Debit Card
+2022-08-13,Product_A,10.71,5,Credit Card
+2021-04-30,Product_A,43.54,5,Credit Card
+2022-03-03,Product_D,57.75,5,Online
+2022-04-17,Product_C,92.99,2,Cash
+2022-12-25,Product_A,18.05,5,Credit Card
+2023-04-06,Product_D,46.53,4,Debit Card
+2023-07-15,Product_C,12.19,9,Debit Card
+2022-07-11,Product_D,40.83,3,Credit Card
+2021-03-06,Product_B,66.0,2,Credit Card
+2022-01-01,Product_D,35.12,8,Debit Card
+2021-09-05,Product_C,28.88,9,Cash
+2022-03-02,Product_A,20.41,4,Cash
+2023-10-04,Product_C,61.94,4,Credit Card
+2022-03-27,Product_C,72.57,1,Debit Card
+2021-11-15,Product_D,70.48,8,Online
+2021-05-15,Product_A,95.4,8,Online
+2021-05-24,Product_B,10.24,6,Online
+2023-04-18,Product_B,68.25,4,Online
+2023-11-01,Product_A,64.04,8,Credit Card
+2022-04-16,Product_D,62.99,9,Debit Card
+2023-04-23,Product_A,96.65,6,Cash
+2023-01-22,Product_B,11.52,6,Debit Card
+2023-06-01,Product_C,72.68,2,Credit Card
+2022-02-20,Product_D,83.23,8,Online
+2022-12-12,Product_D,55.88,7,Debit Card
+2023-05-10,Product_A,40.06,2,Cash
+2023-08-01,Product_C,81.18,9,Credit Card
+2022-09-03,Product_A,18.75,2,Credit Card
+2023-07-09,Product_A,49.78,3,Cash
+2022-11-24,Product_A,56.8,1,Debit Card
+2022-04-13,Product_B,72.46,3,Online
+2021-06-12,Product_D,18.18,5,Debit Card
+2022-04-10,Product_C,30.5,5,Debit Card
+2023-03-12,Product_C,46.93,9,Online
+2023-05-19,Product_B,66.1,5,Credit Card
+2022-05-15,Product_C,89.83,8,Online
+2022-05-23,Product_D,65.69,6,Debit Card
+2023-08-30,Product_A,22.01,3,Online
+2022-08-13,Product_A,98.25,4,Debit Card
+2022-04-15,Product_A,88.46,1,Credit Card
+2022-02-06,Product_B,55.24,8,Cash
+2023-05-30,Product_A,93.01,7,Credit Card
+2022-07-08,Product_B,58.72,9,Credit Card
+2023-07-28,Product_A,93.1,2,Cash
+2021-12-05,Product_C,84.69,8,Cash
+2023-09-25,Product_B,97.15,7,Online
+2023-09-17,Product_A,92.78,9,Cash
+2022-06-20,Product_C,13.24,5,Credit Card
+2023-06-09,Product_B,25.73,4,Debit Card
+2022-04-21,Product_C,45.02,6,Online
+2023-02-07,Product_A,95.69,3,Debit Card
+2021-11-22,Product_C,37.0,1,Credit Card
+2022-07-24,Product_B,24.44,2,Online
+2021-11-13,Product_D,89.77,5,Credit Card
+2022-05-26,Product_D,50.18,1,Credit Card
+2022-09-21,Product_B,91.71,6,Online
+2021-09-27,Product_D,24.42,9,Cash
+2023-01-06,Product_C,69.5,4,Credit Card
+2021-11-04,Product_B,49.62,2,Online
+2023-11-20,Product_B,16.88,6,Credit Card
+2022-05-20,Product_B,72.68,1,Credit Card
+2023-08-05,Product_B,32.27,9,Credit Card
+2022-07-15,Product_C,13.57,2,Cash
+2023-06-06,Product_A,15.39,7,Credit Card
+2021-11-23,Product_D,15.5,8,Online
+2022-05-13,Product_D,91.7,2,Credit Card
+2021-08-26,Product_A,76.59,5,Credit Card
+2022-12-11,Product_B,90.83,9,Cash
+2023-02-16,Product_D,70.53,7,Credit Card
+2023-03-20,Product_A,57.6,8,Online
+2023-04-12,Product_B,37.4,6,Cash
+2023-01-25,Product_D,99.82,8,Online
+2022-10-01,Product_B,42.6,9,Cash
+2023-06-21,Product_C,52.36,6,Cash
+2022-01-29,Product_D,44.04,2,Credit Card
+2023-10-05,Product_D,98.16,5,Online
+2022-11-03,Product_B,25.72,8,Credit Card
+2023-04-03,Product_B,39.52,9,Cash
+2021-08-14,Product_D,71.23,8,Debit Card
+2023-07-07,Product_A,15.69,8,Online
+2021-04-23,Product_A,64.65,1,Cash
+2023-10-23,Product_B,52.99,7,Cash
+2022-08-05,Product_C,35.56,4,Credit Card
+2022-11-12,Product_D,31.46,8,Debit Card
+2023-03-25,Product_B,56.31,3,Debit Card
+2022-03-05,Product_D,43.11,7,Debit Card
+2023-04-28,Product_B,51.09,4,Online
+2021-12-08,Product_C,40.37,6,Credit Card
+2022-11-30,Product_B,97.34,9,Cash
+2023-01-17,Product_A,22.01,6,Cash
+2023-01-13,Product_B,18.71,1,Credit Card
+2021-08-13,Product_C,40.91,7,Debit Card
+2022-09-19,Product_B,63.19,2,Online
+2023-11-10,Product_A,69.33,5,Debit Card
+2022-07-06,Product_B,45.75,8,Credit Card
+2021-03-27,Product_A,99.94,6,Cash
+2022-09-07,Product_D,41.67,3,Credit Card
+2023-01-12,Product_D,74.93,7,Online
+2023-01-12,Product_D,67.38,5,Online
+2023-06-27,Product_C,83.17,8,Credit Card
+2021-09-17,Product_C,97.86,4,Cash
+2022-09-28,Product_A,90.08,7,Online
+2023-09-12,Product_B,78.81,8,Debit Card
+2022-05-04,Product_A,72.84,1,Cash
+2023-07-16,Product_C,40.19,7,Credit Card
+2021-08-17,Product_C,23.29,5,Cash
+2021-04-25,Product_C,15.64,3,Debit Card
+2022-06-30,Product_D,31.77,4,Cash
+2022-05-09,Product_A,48.91,3,Credit Card
+2022-06-17,Product_A,56.98,1,Debit Card
+2023-08-29,Product_B,79.58,6,Debit Card
+2023-02-14,Product_C,96.29,9,Cash
+2022-10-13,Product_D,20.56,2,Cash
+2023-11-09,Product_A,19.63,1,Cash
+2023-02-15,Product_C,63.07,6,Credit Card
+2022-11-29,Product_A,77.09,3,Credit Card
+2022-02-15,Product_B,86.33,2,Cash
+2023-05-12,Product_A,94.22,4,Cash
+2021-11-26,Product_B,98.51,1,Credit Card
+2022-07-30,Product_B,45.98,7,Credit Card
+2021-09-05,Product_C,44.23,1,Debit Card
+2022-04-05,Product_A,23.3,8,Debit Card
+2023-11-15,Product_D,71.64,4,Cash
+2022-05-28,Product_A,69.11,9,Online
+2021-05-06,Product_C,87.59,5,Debit Card
+2023-02-28,Product_A,18.75,5,Credit Card
+2023-08-14,Product_C,54.8,6,Credit Card
+2022-06-13,Product_A,62.3,2,Credit Card
+2023-06-03,Product_D,31.74,7,Debit Card
+2022-11-16,Product_A,25.21,9,Cash
+2023-06-20,Product_B,87.36,7,Online
+2022-02-17,Product_A,15.27,2,Cash
+2021-06-03,Product_A,52.36,5,Debit Card
+2021-08-13,Product_B,20.43,5,Debit Card
+2021-05-01,Product_A,51.14,9,Online
+2023-10-19,Product_C,98.2,7,Cash
+2022-11-18,Product_B,48.13,3,Online
+2023-07-20,Product_A,87.14,4,Online
+2022-03-28,Product_C,20.56,9,Cash
+2021-06-22,Product_B,34.41,1,Debit Card
+2023-05-14,Product_B,46.34,6,Credit Card
+2021-10-11,Product_B,45.98,9,Online
+2023-05-02,Product_B,70.42,8,Online
+2023-04-07,Product_D,41.02,6,Credit Card
+2023-04-30,Product_C,74.24,7,Debit Card
+2022-07-31,Product_B,67.53,6,Cash
+2023-05-23,Product_C,45.92,8,Cash
+2021-08-17,Product_C,48.86,5,Cash
+2022-02-10,Product_D,65.31,3,Cash
+2021-05-28,Product_C,16.3,7,Online
+2021-06-03,Product_D,84.02,7,Online
+2023-10-11,Product_C,68.81,9,Cash
+2022-04-24,Product_B,75.37,2,Cash
+2023-04-25,Product_C,58.32,1,Credit Card
+2021-10-31,Product_B,19.94,6,Cash
+2022-04-25,Product_A,46.45,1,Online
+2023-04-29,Product_A,46.48,2,Debit Card
+2022-11-06,Product_A,38.89,5,Credit Card
+2021-07-10,Product_B,12.7,2,Credit Card
+2023-02-13,Product_C,76.35,1,Debit Card
+2023-07-14,Product_D,19.88,4,Online
+2022-10-29,Product_B,64.57,4,Cash
+2021-03-09,Product_D,73.29,1,Debit Card
+2021-03-15,Product_B,67.13,9,Credit Card
+2023-08-14,Product_B,96.32,3,Cash
+2021-10-14,Product_A,19.3,6,Debit Card
+2021-12-21,Product_D,88.05,5,Credit Card
+2021-08-27,Product_D,12.63,3,Credit Card
+2023-04-28,Product_A,58.14,5,Credit Card
+2023-08-25,Product_C,46.38,3,Cash
+2021-03-23,Product_A,57.18,1,Cash
+2022-02-18,Product_C,42.86,2,Debit Card
+2022-10-14,Product_C,27.15,6,Cash
+2021-12-09,Product_B,11.72,6,Cash
+2023-07-03,Product_C,56.63,9,Debit Card
+2022-03-26,Product_A,85.85,1,Debit Card
+2022-01-02,Product_B,43.59,1,Online
+2021-12-19,Product_B,30.06,6,Cash
+2023-10-14,Product_D,17.25,8,Credit Card
+2021-07-27,Product_A,17.68,4,Cash
+2023-05-13,Product_D,29.93,7,Debit Card
+2021-08-29,Product_C,19.0,1,Debit Card
+2023-06-23,Product_B,33.85,3,Online
+2021-10-29,Product_B,15.95,1,Credit Card
+2021-03-15,Product_B,15.9,6,Online
+2023-07-11,Product_A,87.06,2,Debit Card
+2022-07-07,Product_D,24.59,8,Debit Card
+2023-01-20,Product_D,60.37,4,Debit Card
+2021-04-05,Product_D,79.61,3,Credit Card
+2023-09-17,Product_B,51.08,4,Debit Card
+2021-05-31,Product_C,23.8,3,Credit Card
+2021-04-22,Product_A,27.96,4,Cash
+2023-03-30,Product_C,48.97,8,Debit Card
+2023-10-14,Product_C,57.54,8,Cash
+2021-03-16,Product_C,41.45,2,Debit Card
+2021-04-19,Product_C,80.33,5,Debit Card
+2023-01-29,Product_C,77.59,7,Cash
+2023-09-07,Product_A,93.45,8,Online
+2022-01-29,Product_B,12.61,1,Online
+2021-03-16,Product_A,90.61,1,Cash
+2021-08-09,Product_A,45.33,7,Credit Card
+2021-05-18,Product_C,89.05,5,Credit Card
+2022-08-22,Product_C,72.17,5,Debit Card
+2022-12-31,Product_A,98.86,6,Online
+2023-06-26,Product_B,78.34,2,Credit Card
+2022-01-26,Product_D,42.81,3,Credit Card
+2023-03-02,Product_A,55.1,7,Online
+2022-05-13,Product_A,43.88,9,Credit Card
+2023-02-10,Product_A,42.84,3,Debit Card
+2022-07-26,Product_D,33.48,6,Online
+2022-11-17,Product_C,54.64,6,Online
+2022-02-07,Product_B,71.36,9,Debit Card
+2023-04-28,Product_D,34.96,6,Debit Card
+2023-11-23,Product_D,57.19,2,Credit Card
+2022-09-15,Product_A,20.56,5,Credit Card
+2022-03-15,Product_D,24.39,7,Debit Card
+2022-03-09,Product_C,14.21,9,Credit Card
+2021-06-30,Product_D,97.37,1,Cash
+2022-05-06,Product_B,10.35,6,Online
+2021-09-22,Product_B,26.07,7,Cash
+2022-12-12,Product_B,65.16,1,Debit Card
+2021-09-14,Product_C,17.32,7,Debit Card
+2023-04-26,Product_C,89.37,1,Cash
+2022-10-05,Product_D,74.77,7,Cash
+2022-03-13,Product_B,96.98,8,Debit Card
+2022-04-26,Product_D,55.69,2,Cash
+2021-11-08,Product_A,37.04,2,Debit Card
+2021-08-30,Product_C,59.46,6,Cash
+2021-12-26,Product_D,93.77,1,Online
+2021-05-07,Product_C,56.87,7,Credit Card
+2023-01-12,Product_D,34.05,5,Cash
+2021-12-12,Product_B,88.97,5,Debit Card
+2022-12-22,Product_D,43.47,5,Cash
+2021-11-04,Product_B,10.12,8,Credit Card
+2022-09-25,Product_D,32.29,3,Cash
+2022-04-29,Product_C,38.64,2,Credit Card
+2023-05-22,Product_C,87.29,5,Cash
+2021-10-02,Product_C,51.27,9,Debit Card
+2023-04-23,Product_B,50.01,5,Cash
+2022-02-05,Product_D,40.25,5,Online
+2023-09-09,Product_C,89.26,8,Credit Card
+2023-11-01,Product_D,95.05,1,Credit Card
+2023-07-20,Product_B,99.27,8,Debit Card
+2021-09-12,Product_D,43.91,9,Credit Card
+2023-07-20,Product_C,96.95,6,Debit Card
+2022-02-09,Product_B,81.27,3,Cash
+2021-04-07,Product_B,70.81,7,Cash
+2021-04-28,Product_B,32.04,6,Credit Card
+2023-07-26,Product_B,29.48,7,Online
+2022-11-02,Product_B,24.94,6,Cash
+2022-12-07,Product_C,93.05,4,Debit Card
+2022-07-04,Product_C,36.47,4,Cash
+2023-05-19,Product_C,50.78,1,Debit Card
+2023-03-30,Product_A,54.46,4,Debit Card
+2023-03-28,Product_B,80.04,5,Debit Card
+2023-06-04,Product_A,85.98,2,Credit Card
+2021-05-11,Product_B,22.52,1,Debit Card
+2022-04-11,Product_C,48.42,4,Cash
+2021-07-08,Product_A,85.86,4,Credit Card
+2021-08-22,Product_C,83.62,5,Online
+2022-08-15,Product_B,19.22,7,Credit Card
+2023-01-10,Product_D,24.07,6,Debit Card
+2023-09-18,Product_A,37.38,8,Online
+2022-09-05,Product_D,16.78,2,Debit Card
+2022-03-23,Product_D,48.22,6,Credit Card
+2021-10-08,Product_C,19.69,8,Online
+2023-08-03,Product_D,61.14,7,Credit Card
+2022-11-21,Product_C,32.19,7,Debit Card
+2022-11-12,Product_C,63.68,7,Credit Card
+2022-05-08,Product_A,20.58,2,Online
+2022-03-25,Product_D,97.83,9,Credit Card
+2023-05-21,Product_D,93.93,5,Cash
+2023-02-07,Product_D,45.26,3,Debit Card
+2022-03-27,Product_D,31.8,1,Cash
+2022-09-07,Product_D,32.54,3,Credit Card
+2021-09-14,Product_D,53.51,9,Cash
+2023-04-25,Product_A,13.6,4,Credit Card
+2022-11-21,Product_C,67.57,8,Debit Card
+2023-04-08,Product_C,46.75,3,Cash
+2022-08-19,Product_B,43.97,2,Cash
+2023-04-25,Product_C,82.84,5,Cash
+2023-05-19,Product_D,73.81,5,Online
+2023-09-29,Product_D,95.89,5,Cash
+2022-10-28,Product_B,41.67,3,Credit Card
+2022-06-24,Product_C,90.78,5,Cash
+2022-10-12,Product_B,79.3,9,Cash
+2022-11-30,Product_A,42.17,8,Online
+2023-01-20,Product_D,65.95,9,Online
+2021-10-28,Product_A,35.97,6,Credit Card
+2021-09-11,Product_D,88.7,2,Online
+2022-01-06,Product_A,20.12,9,Credit Card
+2021-03-19,Product_B,29.12,9,Debit Card
+2021-12-14,Product_C,26.47,7,Cash
+2022-04-30,Product_A,46.27,1,Credit Card
+2023-04-30,Product_C,77.07,1,Online
+2021-07-11,Product_D,57.42,3,Debit Card
+2022-02-03,Product_D,53.89,4,Online
+2023-05-04,Product_D,10.05,3,Online
+2022-06-24,Product_A,48.29,2,Debit Card
+2023-09-23,Product_D,15.72,6,Credit Card
+2022-01-16,Product_C,28.74,7,Cash
+2021-12-15,Product_A,93.92,2,Cash
+2021-11-08,Product_B,29.39,9,Debit Card
+2023-10-14,Product_D,87.25,8,Online
+2023-01-04,Product_C,82.26,8,Online
+2022-09-06,Product_D,24.32,4,Online
+2023-07-15,Product_C,64.51,5,Cash
+2022-01-01,Product_D,20.41,7,Cash
+2023-10-06,Product_B,75.51,7,Debit Card
+2023-08-27,Product_A,67.37,5,Debit Card
+2022-01-30,Product_A,83.07,2,Cash
+2021-07-02,Product_A,53.14,3,Cash
+2022-03-24,Product_D,92.34,1,Credit Card
+2023-06-18,Product_B,14.44,1,Cash
+2023-02-11,Product_C,36.36,8,Online
+2022-01-01,Product_D,74.35,7,Credit Card
+2023-09-05,Product_B,47.63,3,Cash
+2023-03-08,Product_B,25.57,9,Debit Card
+2023-01-02,Product_D,19.65,9,Credit Card
+2023-06-08,Product_C,83.56,3,Debit Card
+2022-07-11,Product_A,52.58,2,Online
+2023-08-21,Product_A,89.41,3,Cash
+2022-01-20,Product_B,76.0,8,Online
+2022-11-06,Product_B,46.88,7,Debit Card
+2021-10-24,Product_A,43.62,7,Online
+2023-08-30,Product_A,56.41,3,Credit Card
+2021-03-27,Product_C,90.02,2,Credit Card
+2023-08-12,Product_B,76.36,6,Credit Card
+2023-09-23,Product_A,10.46,7,Debit Card
+2023-08-14,Product_C,72.47,4,Debit Card
+2023-03-08,Product_A,92.76,5,Credit Card
+2021-04-27,Product_A,73.94,3,Debit Card
+2023-04-01,Product_B,25.93,2,Credit Card
+2022-12-02,Product_C,53.52,7,Online
+2022-06-24,Product_C,22.63,1,Online
+2022-12-14,Product_C,42.31,3,Debit Card
+2023-09-25,Product_A,94.34,7,Online
+2022-04-28,Product_A,93.1,4,Cash
+2023-08-19,Product_C,35.46,8,Online
+2022-10-10,Product_D,40.57,6,Credit Card
+2021-08-17,Product_D,64.02,3,Online
+2021-06-23,Product_C,96.69,7,Cash
+2022-04-25,Product_D,23.3,7,Cash
+2021-10-18,Product_B,33.12,2,Credit Card
+2023-01-16,Product_A,88.62,1,Debit Card
+2023-03-17,Product_B,54.27,2,Credit Card
+2023-01-19,Product_D,90.91,4,Credit Card
+2022-02-10,Product_B,26.7,4,Online
+2023-02-24,Product_A,57.94,2,Online
+2021-05-07,Product_B,39.36,4,Cash
+2021-05-06,Product_B,38.49,5,Online
+2022-02-08,Product_B,50.22,4,Online
+2022-01-05,Product_A,48.98,6,Credit Card
+2021-05-31,Product_C,42.16,7,Credit Card
+2022-07-31,Product_C,92.35,9,Debit Card
+2021-03-25,Product_A,75.86,6,Cash
+2023-02-01,Product_B,75.48,6,Cash
+2022-06-10,Product_D,36.09,9,Debit Card
+2022-09-25,Product_B,61.99,5,Debit Card
+2022-02-26,Product_B,80.13,6,Debit Card
+2021-09-17,Product_B,81.6,1,Cash
+2022-08-25,Product_C,41.01,4,Credit Card
+2021-07-07,Product_A,79.38,2,Online
+2021-04-08,Product_A,76.23,7,Debit Card
+2023-06-04,Product_B,22.74,9,Debit Card
+2022-05-16,Product_B,87.94,7,Online
+2023-10-13,Product_D,49.72,4,Debit Card
+2022-12-24,Product_A,53.78,5,Online
+2021-04-04,Product_B,50.35,6,Online
+2021-06-09,Product_C,61.11,9,Credit Card
+2021-03-24,Product_B,65.91,3,Credit Card
+2021-11-28,Product_B,54.84,4,Debit Card
+2023-02-22,Product_A,88.01,3,Debit Card
+2023-03-07,Product_A,66.5,2,Online
+2021-12-06,Product_B,46.13,2,Online
+2023-06-05,Product_D,47.5,9,Online
+2021-12-13,Product_D,82.98,7,Debit Card
+2022-07-02,Product_D,41.34,4,Cash
+2022-03-08,Product_B,29.03,3,Debit Card
+2022-10-19,Product_B,15.34,3,Credit Card
+2023-05-07,Product_A,88.84,5,Cash
+2022-07-17,Product_B,92.67,8,Debit Card
+2022-11-06,Product_B,20.81,3,Cash
+2023-06-09,Product_D,40.1,5,Debit Card
+2022-03-17,Product_D,25.78,5,Online
+2021-05-28,Product_A,20.43,2,Debit Card
+2022-03-19,Product_A,90.99,6,Online
+2023-11-18,Product_D,15.12,4,Credit Card
+2022-01-11,Product_D,98.24,8,Credit Card
+2023-02-09,Product_A,18.68,5,Cash
+2022-09-25,Product_D,87.71,3,Cash
+2023-07-23,Product_A,60.99,1,Credit Card
+2023-01-07,Product_D,43.11,3,Credit Card
+2022-06-05,Product_A,40.81,3,Credit Card
+2023-11-13,Product_B,78.16,7,Debit Card
+2021-11-01,Product_A,38.31,9,Online
+2022-02-11,Product_A,69.16,2,Online
+2023-06-30,Product_B,56.56,2,Debit Card
+2021-12-02,Product_D,53.65,2,Cash
+2023-07-25,Product_D,91.1,1,Debit Card
+2022-07-28,Product_A,59.92,2,Credit Card
+2023-10-09,Product_A,84.42,8,Cash
+2022-09-15,Product_C,75.3,1,Online
+2022-03-16,Product_A,13.47,7,Cash
+2022-10-15,Product_D,79.58,6,Credit Card
+2022-11-10,Product_B,29.52,9,Online
+2023-05-29,Product_B,91.28,6,Online
+2021-11-11,Product_D,13.86,7,Credit Card
+2021-07-28,Product_A,39.98,9,Online
+2023-08-14,Product_B,18.98,2,Cash
+2021-03-28,Product_A,52.8,5,Credit Card
+2022-08-27,Product_A,83.8,6,Cash
+2021-08-28,Product_B,36.84,1,Cash
+2023-04-21,Product_A,23.58,6,Online
+2021-06-01,Product_D,39.72,7,Cash
+2023-02-15,Product_D,83.25,2,Credit Card
+2023-03-13,Product_A,22.63,2,Online
+2021-11-05,Product_A,30.46,4,Online
+2022-10-27,Product_C,16.2,2,Online
+2022-12-05,Product_A,73.51,7,Debit Card
+2022-11-14,Product_B,45.57,1,Debit Card
+2022-06-03,Product_B,37.98,8,Cash
+2023-01-11,Product_A,74.68,7,Cash
+2023-02-01,Product_B,40.24,5,Cash
+2021-10-24,Product_A,75.5,3,Cash
+2021-03-20,Product_B,83.37,4,Cash
+2022-12-09,Product_B,29.59,7,Online
+2021-10-30,Product_C,97.64,7,Debit Card
+2021-06-16,Product_D,24.61,3,Credit Card
+2022-09-16,Product_D,36.18,2,Online
+2022-02-05,Product_A,26.18,8,Debit Card
+2023-09-22,Product_B,41.1,9,Credit Card
+2022-09-28,Product_D,53.21,9,Online
+2021-06-03,Product_B,57.0,5,Debit Card
+2022-01-25,Product_C,86.82,3,Credit Card
+2022-04-18,Product_B,90.05,9,Cash
+2021-08-07,Product_C,29.81,1,Cash
+2021-07-08,Product_A,66.06,4,Online
+2021-04-03,Product_B,20.03,1,Debit Card
+2021-07-16,Product_B,51.31,6,Debit Card
+2022-06-08,Product_B,39.01,8,Cash
+2022-05-23,Product_B,38.49,8,Debit Card
+2022-03-01,Product_B,53.43,5,Online
+2022-05-12,Product_C,75.68,9,Online
+2022-09-17,Product_A,16.23,3,Credit Card
+2023-07-17,Product_B,89.13,6,Credit Card
+2022-08-19,Product_B,76.13,2,Credit Card
+2021-09-04,Product_C,25.88,8,Cash
+2022-07-25,Product_D,94.52,8,Cash
+2021-10-03,Product_C,55.57,2,Online
+2022-05-29,Product_A,99.98,6,Cash
+2021-11-14,Product_A,27.75,1,Credit Card
+2022-01-06,Product_C,58.14,8,Online
+2021-09-11,Product_B,36.12,9,Cash
+2021-04-12,Product_B,37.38,5,Cash
+2022-12-06,Product_B,63.2,6,Cash
+2021-12-12,Product_B,92.95,3,Cash
+2022-04-07,Product_C,82.47,1,Online
+2021-12-31,Product_B,75.15,9,Debit Card
+2023-03-31,Product_B,60.33,7,Online
+2022-08-24,Product_A,93.01,6,Credit Card
+2023-03-10,Product_C,54.31,4,Debit Card
+2021-11-09,Product_B,88.64,9,Online
+2022-07-19,Product_B,85.06,1,Cash
+2022-02-24,Product_B,29.25,8,Online
+2023-07-26,Product_B,79.41,3,Online
+2021-06-25,Product_C,11.1,9,Credit Card
+2022-02-05,Product_C,39.05,8,Credit Card
+2023-01-20,Product_C,30.66,7,Online
+2022-08-08,Product_C,55.62,1,Debit Card
+2023-10-30,Product_A,76.32,6,Credit Card
+2022-04-10,Product_D,18.79,3,Credit Card
+2021-06-19,Product_A,56.34,7,Credit Card
+2023-03-10,Product_C,94.46,9,Cash
+2022-10-20,Product_B,30.58,5,Online
+2021-10-28,Product_C,70.94,1,Debit Card

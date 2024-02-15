@@ -13,22 +13,22 @@ The goal of this assignment is to implement a series of Python functions to perf
 ### Tasks
 
 1. **Read Corpus**
-   - Implement a function `read_corpus(filename: str) -> str` that reads text from `corpus.txt` and returns it as a string.
+   - Implement a function `read_corpus(filename: str) -> list[str]` that reads text from `corpus.txt` split it into list of words (tokens separated by space) returns it as a list of strings.
 
 2. **Read Stop Words**
-   - Implement a function `read_stop_words(filename: str) -> list[str]` that reads stop words from `stop_words.txt` and returns them as a list of strings.
+   - Implement a function `read_stop_words(filename: str) -> list[str]` that reads stop words (comma separated) from `stop_words.txt` and returns them as a list of strings.
 
 3. **Preprocess**
-   - Implement a function `preprocess(text: str) -> list[str]` that takes the corpus text, converts it to lowercase, removes punctuation, and splits it into a list of words.
+   - Implement a function `preprocess(corpus: list[str]) -> list[str]` that takes the corpus as a list, converts each word to lowercase and removes all punctuation.
 
 4. **Remove Stop Words**
-   - Implement a function `remove_stop_words(words: list[str], stop_words: list[str]) -> list[str]` that removes stop words from the corpus.
+   - Implement a function `remove_stop_words(corpus: list[str], stop_words: list[str]) -> list[str]` that removes stop words from the corpus.
 
 5. **Identify K Most Frequent Words**
-   - Implement a function `find_most_frequent_words(words: list[str], k: int) -> list[(str, int)]` that identifies the K most frequent words in the corpus and their counts.
+   - Implement a function `find_most_frequent_words(corpus: list[str], k: int) -> list[(str, int)]` that identifies the K most frequent words in the corpus and their counts.
 
 6. **Identify Mean Length of Word in Corpus**
-   - Implement a function `find_mean_word_length(words: list[str]) -> int` that returns the mean length of the word in the corpus.
+   - Implement a function `find_mean_word_length(corpus: list[str]) -> int` that returns the mean length of the word in the corpus.
 
 ### Example Usage
 

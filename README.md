@@ -19,7 +19,7 @@ The goal of this assignment is to implement a series of Python functions to perf
    - Implement a function `read_stop_words(filename: str) -> list[str]` that reads stop words (comma separated) from `stop_words.txt` and returns them as a list of strings.
 
 3. **Preprocess**
-   - Implement a function `preprocess(corpus: list[str]) -> list[str]` that takes the corpus as a list, converts each word to lowercase and removes all punctuation.
+   - Implement a function `preprocess(corpus: list[str]) -> list[str]` that takes the corpus as a list and converts each word to lowercase.
 
 4. **Remove Stop Words**
    - Implement a function `remove_stop_words(corpus: list[str], stop_words: list[str]) -> list[str]` that removes stop words from the corpus.
